@@ -53,9 +53,17 @@ display: inline-block;
 
 .footer {
     height: 40vh;
-    width: 100vw;
+    width: 50vw;
     border: 1px solid gray;
     margin-left: 25vw;
-    margin-right: 25vw;
+    margin-right: 25vh;
+}
 
+.content {
+    font-size: 50px;
+    color: rebeccapurple;
+    padding: 180px;
+    text-align: center;
+    box-shadow: 2px 2px 5px gray;
+    
 }
