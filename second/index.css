@@ -1,11 +1,61 @@
 .header {
+    height: 25vh;
+    width: 100%;
+    border: 3px solid black;
 
+}
+
+.purple {
+height: 17vh;
+width: 3vw;
+background-color: purple;
+margin-left: 15px;
+margin-top: 70px;
+display: inline-block;
+}
+
+.green {
+    height: 23vh;
+    width: 33vw;
+    background-color: green;
+    margin-left: 60px;
+    display: inline-block;
+    
+}
+
+.aquamarine {
+    border-radius: 110px;
+    height: 23vh;
+    width: 220px;
+    background-color: lightblue;
+    display: inline-block;
+    margin-left: 30px;
 }
 
 .middle {
+    height: 35vh;
+    width: 100vw;
+    border: 3px dotted black;
+    display: inline-block;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
 
 }
 
+.lightyellow {
+    height: 25vh;
+    width: 90vw;
+    display: inline-block;
+    background-color: lightyellow;
+    margin: 5vh;
+    box-shadow: 5px 7px 7px gray
+}
+
 .footer {
-    
+    height: 40vh;
+    width: 100vw;
+    border: 1px solid gray;
+    margin-left: 25vw;
+    margin-right: 25vw;
+
 }
